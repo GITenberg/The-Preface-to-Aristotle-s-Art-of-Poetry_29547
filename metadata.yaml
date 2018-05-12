@@ -1,0 +1,34 @@
+_repo: The-Preface-to-Aristotle-s-Art-of-Poetry_29547
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dacier, André
+    aliases:
+    - D'Acier, monsieur (André)
+    - Dacier, Andre
+    birthdate: 1651
+    deathdate: 1722
+    gutenberg_agent_id: '33982'
+    url: http://www.gutenberg.org/2009/agents/33982
+  editor:
+    agent_name: Monk, Samuel Holt
+    gutenberg_agent_id: '33983'
+    url: http://www.gutenberg.org/2009/agents/33983
+description: ''
+gutenberg_issued: '2009-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29547'
+  lccn: '59003069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Aristotle, 384 BC-322 BC. Poetics'
+title: The Preface to Aristotle's Art of Poetry
+url: http://www.gutenberg.org/ebooks/29547
